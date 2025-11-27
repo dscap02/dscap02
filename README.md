@@ -8,7 +8,7 @@
 
 
 
-![dscap02's Stats](https://github-readme-stats.vercel.app/api?username=dscap02&theme=jolly&show_icons=true&hide_border=false&count_private=false)
+![dscap02's Stats](https://github-readme-stats.vercel.app/api?username=dscap02&theme=jolly&show_icons=true&hide_border=false&count_private=false&cache_seconds=7200)
 
 # 💻 Tech stack
 
