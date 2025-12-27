@@ -1,10 +1,9 @@
 # Hi 👋, I'm dscap02!
 
-👨🏻‍💻 I'm a Master's student in Computer Science (**Software Engineering & IT Management curricula**) at University of Salerno, Italy 🇮🇹<br>
+👨🏻‍💻 I'm a Master's student in Computer Science (**Software Engineering & IT Management curricula**) at University of Salerno 🇮🇹<br>
 🤖 I'm very into IA field <br>
 👨‍🏫 I’m currently learning **DevOps architecture and frameworks**<br>
 ⚽️ I really do love sports and I'm a big fan of Juventus Football Club & Italy's Volley Team<br> 
-📫 You can contact me at **danyscp3602@gmail.com**<br>
 
 
 
